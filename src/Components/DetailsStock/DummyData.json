@@ -1,0 +1,997 @@
+{
+    "stock": {
+        "logo": "https://financialmodelingprep.com/image-stock/AAPL.png",
+        "companyName": "Apple Inc.",
+        "symbol": "AAPL",
+        "isin": "US0378331005",
+        "marketcap": 2324632624589,
+        "sector": "Technology",
+        "price": 146.925,
+        "performance": {
+            "1M": 0.98329093,
+            "1Y": -10.01225,
+            "5Y": 235.68
+        },
+        "yearHigh": 179.61,
+        "yearLow": 124.17,
+        "historical": [
+            {
+                "date": "2023-02-01",
+                "price": 145.43
+            },
+            {
+                "date": "2023-02-02",
+                "price": 150.82
+            },
+            {
+                "date": "2023-02-03",
+                "price": 154.5
+            },
+            {
+                "date": "2023-02-06",
+                "price": 151.73
+            },
+            {
+                "date": "2023-02-07",
+                "price": 154.65
+            },
+            {
+                "date": "2023-02-08",
+                "price": 151.92
+            },
+            {
+                "date": "2023-02-09",
+                "price": 150.87
+            },
+            {
+                "date": "2023-02-10",
+                "price": 151.01
+            },
+            {
+                "date": "2023-02-13",
+                "price": 153.85
+            },
+            {
+                "date": "2023-02-14",
+                "price": 153.2
+            },
+            {
+                "date": "2023-02-15",
+                "price": 155.33
+            },
+            {
+                "date": "2023-02-16",
+                "price": 153.71
+            },
+            {
+                "date": "2023-02-17",
+                "price": 152.55
+            },
+            {
+                "date": "2023-02-21",
+                "price": 148.48
+            },
+            {
+                "date": "2023-02-22",
+                "price": 148.91
+            },
+            {
+                "date": "2023-02-23",
+                "price": 149.4
+            },
+            {
+                "date": "2023-02-24",
+                "price": 146.71
+            },
+            {
+                "date": "2023-02-27",
+                "price": 147.92
+            },
+            {
+                "date": "2023-02-28",
+                "price": 147.41
+            },
+            {
+                "date": "2023-03-01",
+                "price": 146.63
+            }
+        ],
+        "beta": 1.277894,
+        "yield": 0.63,
+        "PER": 24.32,
+        "dividendScore": 19,
+        "growthScore": 13,
+        "ESGScore": "A+",
+        "EPS": 5.456,
+        "dividendGrowth": 8,
+        "domination": 38,
+        "description": "Apple est une entreprise multinationale américaine qui conçoit, développe et commercialise des produits électroniques grand public, des logiciels informatiques et des services en ligne. Parmi ses produits les plus connus figurent l'iPhone, l'iPad, le Mac, l'Apple Watch et l'Apple TV. Apple est également le créateur de nombreux logiciels populaires tels que le système d'exploitation macOS, le navigateur web Safari et l'application de messagerie iMessage.\n\nL'entreprise est également présente dans le secteur des services avec des offres telles que Apple Music, Apple TV+, iCloud, Apple Pay et l'App Store.Apple est connue pour son design innovant, sa qualité de fabrication et son expérience utilisateur haut de gamme.Elle est l'une des plus grandes entreprises au monde en termes de capitalisation boursière et a une présence mondiale avec des magasins dans plus de 25 pays.",
+        "country": "US",
+        "ipoDate": "1980-12-12",
+        "website": "https://www.apple.com",
+        "ceo": "Mr. Timothy D. Cook",
+        "fullTimeEmployees": "164000",
+        "industry": "Consumer Electronics",
+        "keyExecutives": [
+            {
+                "name": "Mr. Timothy D. Cook",
+                "title": "CEO & Director",
+                "titleSince": "2008-09-25",
+                "pay": 99420000
+            },
+            {
+                "name": "Luca Maestri",
+                "title": "CFO & Senior VP",
+                "titleSince": "2018-01-02",
+                "pay": 27150000
+            },
+            {
+                "name": "Jeffery Williams",
+                "title": "Chief Operating Officer",
+                "titleSince": "2013-12-25",
+                "pay": 152004
+            },
+            {
+                "name": "Mohammad Ghandour",
+                "title": "Developer albeh",
+                "titleSince": "2010-12-25",
+                "pay": 5481254
+            },
+            {
+                "name": "Sebastien Koubar",
+                "title": "Project manager",
+                "titleSince": "2000-12-25",
+                "pay": 48200424
+            }
+        ],
+        "consensusAnalytics": {
+            "symbol": "AAPL",
+            "data": [
+                {
+                    "strongBuy": 25
+                },
+                {
+                    "buy": 8
+                },
+                {
+                    "hold": 9
+                },
+                {
+                    "sell": 1
+                },
+                {
+                    "strongSell": 1
+                }
+            ],
+            "consensus": "strongBuy"
+        },
+        "valorisationGraph": {
+            "values": [
+                {
+                    "year": "2017-01-01",
+                    "value": 22.45
+                },
+                {
+                    "year": "2018-01-01",
+                    "value": 40.17
+                },
+                {
+                    "year": "2019-01-01",
+                    "value": 38.00
+                },
+                {
+                    "year": "2020-01-01",
+                    "value": 71.81
+                },
+                {
+                    "year": "2021-01-01",
+                    "value": 130.92
+                },
+                {
+                    "year": "2022-01-01",
+                    "value": 176.28
+                },
+                {
+                    "year": "2023-01-01",
+                    "value": 129.78
+                },
+                {
+                    "year": "2023-03-06",
+                    "value": 146.92
+                },
+                {
+                    "year": "2024-01-01",
+                    "value": null
+                }
+            ],
+            "fairValues": [
+                {
+                    "year": "2017-01-01",
+                    "fairValue": 50.00
+                },
+                {
+                    "year": "2018-01-01",
+                    "fairValue": 52.50
+                },
+                {
+                    "year": "2019-01-01",
+                    "fairValue": 58.00
+                },
+                {
+                    "year": "2020-01-01",
+                    "fairValue": 71.81
+                },
+                {
+                    "year": "2021-01-01",
+                    "fairValue": 100.92
+                },
+                {
+                    "year": "2022-01-01",
+                    "fairValue": 120.28
+                },
+                {
+                    "year": "2023-01-01",
+                    "fairValue": 115.41
+                },
+                {
+                    "year": "2023-03-06",
+                    "fairValue": null
+                },
+                {
+                    "year": "2024-01-01",
+                    "fairValue": 121.91
+                }
+            ]
+        },
+        "netIncome": 94680000000,
+        "revenue": 394328000000,
+        "PS": 6.18,
+        "PB": 48.14,
+        "volAvg": 73806944,
+        "lastDiv": 0.91,
+        "dividendWithoutInterruption": 2,
+        "frequency": 10,
+        "annualDividend": 7.25,
+        "lastExDate": "12-31-2022",
+        "croissance1Year": 2.5,
+        "croissance3Year": 13.71,
+        "payoutRatioTTM": 0.15631862647234976,
+        "dividendPerShareTTM": 0.92,
+        "netIncomePerShareTTM": 5.988338184715105,
+        "segmentsSales": [
+            {
+                "label": "Mac",
+                "value": 40177000000
+            },
+            {
+                "label": "Service",
+                "value": 78129000000
+            },
+            {
+                "label": "Wearables, Home and Accessories",
+                "value": 41241000000
+            },
+            {
+                "label": "iPad",
+                "value": 29292000000
+            },
+            {
+                "label": "iPhone",
+                "value": 205489000000
+            }
+        ],
+        "geographicalRevenue": [
+            {
+                "label": "Americas",
+                "value": 49278000000
+            },
+            {
+                "label": "Europe",
+                "value": 27681000000
+            },
+            {
+                "label": "Greater China",
+                "value": 23905000000
+            },
+            {
+                "label": "Japan",
+                "value": 6755000000
+            },
+            {
+                "label": "Rest of Asia Pacific",
+                "value": 9535000000
+            }
+        ],
+        "earningPerCalls": [
+            {
+                "eps": 1.4,
+                "epsEstimated": 0.99,
+                "fiscalDateEnding": "2021-03-27",
+                "difference": 41.41
+            },
+            {
+                "eps": 1.3,
+                "epsEstimated": 1,
+                "fiscalDateEnding": "2021-06-26",
+                "difference": 30
+            },
+            {
+                "eps": 1.24,
+                "epsEstimated": 1.24,
+                "fiscalDateEnding": "2021-09-25",
+                "difference": 0
+            },
+            {
+                "eps": 2.1,
+                "epsEstimated": 1.89,
+                "fiscalDateEnding": "2021-12-25",
+                "difference": 11.11
+            },
+            {
+                "eps": 1.52,
+                "epsEstimated": 1.43,
+                "fiscalDateEnding": "2022-03-26",
+                "difference": 6.29
+            },
+            {
+                "eps": 1.2,
+                "epsEstimated": 1.16,
+                "fiscalDateEnding": "2022-06-25",
+                "difference": 3.45
+            },
+            {
+                "eps": 1.29,
+                "epsEstimated": 1.27,
+                "fiscalDateEnding": "2022-09-24",
+                "difference": 1.57
+            },
+            {
+                "eps": 1.88,
+                "epsEstimated": 1.95,
+                "fiscalDateEnding": "2022-12-31",
+                "difference": -3.59
+            }
+        ],
+        "employeeCount": [
+            {
+                "periodOfReport": "2013-09-28",
+                "employeeCount": 80300
+            },
+            {
+                "periodOfReport": "2014-09-27",
+                "employeeCount": 92600
+            },
+            {
+                "periodOfReport": "2015-09-26",
+                "employeeCount": 110000
+            },
+            {
+                "periodOfReport": "2016-09-24",
+                "employeeCount": 116000
+            },
+            {
+                "periodOfReport": "2017-09-30",
+                "employeeCount": 123000
+            },
+            {
+                "periodOfReport": "2018-09-29",
+                "employeeCount": 132000
+            },
+            {
+                "periodOfReport": "2019-09-28",
+                "employeeCount": 137000
+            },
+            {
+                "periodOfReport": "2020-09-26",
+                "employeeCount": 147000
+            },
+            {
+                "periodOfReport": "2021-09-25",
+                "employeeCount": 154000
+            },
+            {
+                "periodOfReport": "2022-09-24",
+                "employeeCount": 164000
+            }
+        ],
+        "outstandingShares": [
+            {
+                "weightedAverageShsOut": 25909268000,
+                "calendarYear": "2013"
+            },
+            {
+                "weightedAverageShsOut": 24342288000,
+                "calendarYear": "2014"
+            },
+            {
+                "weightedAverageShsOut": 23013684000,
+                "calendarYear": "2015"
+            },
+            {
+                "weightedAverageShsOut": 21883280000,
+                "calendarYear": "2016"
+            },
+            {
+                "weightedAverageShsOut": 20868968000,
+                "calendarYear": "2017"
+            },
+            {
+                "weightedAverageShsOut": 19821508000,
+                "calendarYear": "2018"
+            },
+            {
+                "weightedAverageShsOut": 18471336000,
+                "calendarYear": "2019"
+            },
+            {
+                "weightedAverageShsOut": 17352119000,
+                "calendarYear": "2020"
+            },
+            {
+                "weightedAverageShsOut": 16701272000,
+                "calendarYear": "2021"
+            },
+            {
+                "weightedAverageShsOut": 16215963000,
+                "calendarYear": "2022"
+            }
+        ],
+        "institutionalHolders": [
+            {
+                "investorName": "VANGUARD GROUP INC",
+                "sharesNumber": 1278250538,
+                "ownership": 7.8296,
+                "changeInSharesNumberPercentage": 0
+            },
+            {
+                "investorName": "BLACKROCK INC.",
+                "sharesNumber": 1029208322,
+                "ownership": 6.3042,
+                "changeInSharesNumberPercentage": 0.87
+            },
+            {
+                "investorName": "BERKSHIRE HATHAWAY INC",
+                "sharesNumber": 895136175,
+                "ownership": 5.4829,
+                "changeInSharesNumberPercentage": 0.03
+            },
+            {
+                "investorName": "STATE STREET CORP",
+                "sharesNumber": 586857405,
+                "ownership": 3.5947,
+                "changeInSharesNumberPercentage": -0.79
+            },
+            {
+                "investorName": "FMR LLC",
+                "sharesNumber": 321162411,
+                "ownership": 1.9672,
+                "changeInSharesNumberPercentage": -8.47
+            },
+            {
+                "investorName": "GEODE CAPITAL MANAGEMENT, LLC",
+                "sharesNumber": 282749817,
+                "ownership": 1.7319,
+                "changeInSharesNumberPercentage": 1.06
+            },
+            {
+                "investorName": "PRICE T ROWE ASSOCIATES INC /MD/",
+                "sharesNumber": 226281368,
+                "ownership": 1.386,
+                "changeInSharesNumberPercentage": 0.63
+            },
+            {
+                "investorName": "MORGAN STANLEY",
+                "sharesNumber": 208655323,
+                "ownership": 1.2781,
+                "changeInSharesNumberPercentage": 14.18
+            },
+            {
+                "investorName": "NORTHERN TRUST CORP",
+                "sharesNumber": 174276229,
+                "ownership": 1.0675,
+                "changeInSharesNumberPercentage": -1.02
+            },
+            {
+                "investorName": "NORGES BANK",
+                "sharesNumber": 167374278,
+                "ownership": 1.0252,
+                "changeInSharesNumberPercentage": 17.80
+            }
+        ],
+        "insiderTrading": [
+            {
+                "reportingName": "KONDO CHRIS",
+                "typeOfOwner": "Principal Accounting Officer",
+                "transactionType": "P-Purchase",
+                "transactionDate": "2022-11-22",
+                "securitiesTransacted": 20200,
+                "price": 148.72,
+                "totalValue": "3004144.00"
+            },
+            {
+                "reportingName": "Maestri Luca",
+                "typeOfOwner": "Senior Vice President, CFO",
+                "transactionType": "S-Sale",
+                "transactionDate": "2022-10-28",
+                "securitiesTransacted": 7200,
+                "price": 157.2,
+                "totalValue": "1131840.00"
+            },
+            {
+                "reportingName": "Maestri Luca",
+                "typeOfOwner": "Senior Vice President, CFO",
+                "transactionType": "S-Sale",
+                "transactionDate": "2022-10-28",
+                "securitiesTransacted": 69678,
+                "price": 156.46,
+                "totalValue": "10901819.88"
+            },
+            {
+                "reportingName": "Maestri Luca",
+                "typeOfOwner": "Senior Vice President, CFO",
+                "transactionType": "P-Purchase",
+                "transactionDate": "2022-10-28",
+                "securitiesTransacted": 85147,
+                "price": 155.63,
+                "totalValue": "13251427.61"
+            },
+            {
+                "reportingName": "Maestri Luca",
+                "typeOfOwner": "Senior Vice President, CFO",
+                "transactionType": "P-Purchase",
+                "transactionDate": "2022-10-28",
+                "securitiesTransacted": 14274,
+                "price": 154.7,
+                "totalValue": "2208187.80"
+            },
+            {
+                "reportingName": "O'BRIEN DEIRDRE",
+                "typeOfOwner": "Senior Vice President",
+                "transactionType": "S-Sale",
+                "transactionDate": "2022-10-17",
+                "securitiesTransacted": 8053,
+                "price": 142.45,
+                "totalValue": "1147149.85"
+            },
+            {
+                "reportingName": "O'BRIEN DEIRDRE",
+                "typeOfOwner": "Senior Vice President",
+                "transactionType": "S-Sale",
+                "transactionDate": "2022-10-03",
+                "securitiesTransacted": 67026,
+                "price": 142.83,
+                "totalValue": "9573323.58"
+            },
+            {
+                "reportingName": "O'BRIEN DEIRDRE",
+                "typeOfOwner": "Senior Vice President",
+                "transactionType": "S-Sale",
+                "transactionDate": "2022-10-03",
+                "securitiesTransacted": 66880,
+                "price": 142.17,
+                "totalValue": "9508329.60"
+            },
+            {
+                "reportingName": "O'BRIEN DEIRDRE",
+                "typeOfOwner": "Senior Vice President",
+                "transactionType": "S-Sale",
+                "transactionDate": "2022-10-03",
+                "securitiesTransacted": 42393,
+                "price": 141.09,
+                "totalValue": "5981228.37"
+            },
+            {
+                "reportingName": "Adams Katherine L.",
+                "typeOfOwner": "SVP, GC and Secretary",
+                "transactionType": "S-Sale",
+                "transactionDate": "2022-10-03",
+                "securitiesTransacted": 13250,
+                "price": 142.93,
+                "totalValue": "1893822.50"
+            }
+        ],
+        "revenueNetIncome": [
+            {
+                "revenue": 170910000000,
+                "netIncome": 37037000000,
+                "calendarYear": 2013,
+                "growthRevenue": 9,
+                "growthNetIncome": -11
+            },
+            {
+                "revenue": 182795000000,
+                "netIncome": 39510000000,
+                "calendarYear": 2014,
+                "growthRevenue": 7,
+                "growthNetIncome": 7
+            },
+            {
+                "revenue": 233715000000,
+                "netIncome": 53394000000,
+                "calendarYear": 2015,
+                "growthRevenue": 28,
+                "growthNetIncome": 35
+            },
+            {
+                "revenue": 215639000000,
+                "netIncome": 45687000000,
+                "calendarYear": 2016,
+                "growthRevenue": -8,
+                "growthNetIncome": -14
+            },
+            {
+                "revenue": 229234000000,
+                "netIncome": 48351000000,
+                "calendarYear": 2017,
+                "growthRevenue": 6,
+                "growthNetIncome": 6
+            },
+            {
+                "revenue": 265595000000,
+                "netIncome": 59531000000,
+                "calendarYear": 2018,
+                "growthRevenue": 16,
+                "growthNetIncome": 23
+            },
+            {
+                "revenue": 260174000000,
+                "netIncome": 55256000000,
+                "calendarYear": 2019,
+                "growthRevenue": -2,
+                "growthNetIncome": -7
+            },
+            {
+                "revenue": 274515000000,
+                "netIncome": 57411000000,
+                "calendarYear": 2020,
+                "growthRevenue": 6,
+                "growthNetIncome": 4
+            },
+            {
+                "revenue": 365817000000,
+                "netIncome": 94680000000,
+                "calendarYear": 2021,
+                "growthRevenue": 33,
+                "growthNetIncome": 65
+            },
+            {
+                "revenue": 394328000000,
+                "netIncome": 99803000000,
+                "calendarYear": 2022,
+                "growthRevenue": 8,
+                "growthNetIncome": 5
+            }
+        ],
+        "operatingIncomesCashFlows": [
+            {
+                "calendarYear": 2013,
+                "operatingIncome": 48999000000,
+                "growthOperatingIncome": -11,
+                "freeCashFlow": 44590000000,
+                "growthFreeCashFlow": 8
+            },
+            {
+                "calendarYear": 2014,
+                "operatingIncome": 52503000000,
+                "growthOperatingIncome": 7,
+                "freeCashFlow": 49900000000,
+                "growthFreeCashFlow": 12
+            },
+            {
+                "calendarYear": 2015,
+                "operatingIncome": 71230000000,
+                "growthOperatingIncome": 36,
+                "freeCashFlow": 69778000000,
+                "growthFreeCashFlow": 40
+            },
+            {
+                "calendarYear": 2016,
+                "operatingIncome": 60024000000,
+                "growthOperatingIncome": -16,
+                "freeCashFlow": 52276000000,
+                "growthFreeCashFlow": -25
+            },
+            {
+                "calendarYear": 2017,
+                "operatingIncome": 61344000000,
+                "growthOperatingIncome": 2,
+                "freeCashFlow": 50803000000,
+                "growthFreeCashFlow": -3
+            },
+            {
+                "calendarYear": 2018,
+                "operatingIncome": 70898000000,
+                "growthOperatingIncome": 16,
+                "freeCashFlow": 64121000000,
+                "growthFreeCashFlow": 26
+            },
+            {
+                "calendarYear": 2019,
+                "operatingIncome": 63930000000,
+                "growthOperatingIncome": -10,
+                "freeCashFlow": 58896000000,
+                "growthFreeCashFlow": -8
+            },
+            {
+                "calendarYear": 2020,
+                "operatingIncome": 66288000000,
+                "growthOperatingIncome": 4,
+                "freeCashFlow": 73365000000,
+                "growthFreeCashFlow": 25
+            },
+            {
+                "calendarYear": 2021,
+                "operatingIncome": 108949000000,
+                "growthOperatingIncome": 64,
+                "freeCashFlow": 92953000000,
+                "growthFreeCashFlow": 27
+            },
+            {
+                "calendarYear": 2022,
+                "operatingIncome": 119437000000,
+                "growthOperatingIncome": 10,
+                "freeCashFlow": 111443000000,
+                "growthFreeCashFlow": 20
+            }
+        ],
+        "keyMetrics": [
+            {
+                "calendarYear": 2013,
+                "freeCashFlowPerShare": 1.72,
+                "epsdiluted": 1.42
+            },
+            {
+                "calendarYear": 2014,
+                "freeCashFlowPerShare": 2.05,
+                "epsdiluted": 1.61
+            },
+            {
+                "calendarYear": 2015,
+                "freeCashFlowPerShare": 3.03,
+                "epsdiluted": 2.31
+            },
+            {
+                "calendarYear": 2016,
+                "freeCashFlowPerShare": 2.39,
+                "epsdiluted": 2.08
+            },
+            {
+                "calendarYear": 2017,
+                "freeCashFlowPerShare": 2.43,
+                "epsdiluted": 2.3
+            },
+            {
+                "calendarYear": 2018,
+                "freeCashFlowPerShare": 3.23,
+                "epsdiluted": 2.98
+            },
+            {
+                "calendarYear": 2019,
+                "freeCashFlowPerShare": 3.19,
+                "epsdiluted": 2.97
+            },
+            {
+                "calendarYear": 2020,
+                "freeCashFlowPerShare": 4.23,
+                "epsdiluted": 3.28
+            },
+            {
+                "calendarYear": 2021,
+                "freeCashFlowPerShare": 5.57,
+                "epsdiluted": 5.61
+            },
+            {
+                "calendarYear": 2022,
+                "freeCashFlowPerShare": 6.87,
+                "epsdiluted": 6.11
+            }
+        ],
+        "margins": [
+            {
+                "operatingIncomeRatio": 28.67,
+                "netIncomeRatio": 21.67,
+                "calendarYear": 2013
+            },
+            {
+                "operatingIncomeRatio": 28.72,
+                "netIncomeRatio": 21.61,
+                "calendarYear": 2014
+            },
+            {
+                "operatingIncomeRatio": 30.48,
+                "netIncomeRatio": 22.85,
+                "calendarYear": 2015
+            },
+            {
+                "operatingIncomeRatio": 27.84,
+                "netIncomeRatio": 21.19,
+                "calendarYear": 2016
+            },
+            {
+                "operatingIncomeRatio": 26.76,
+                "netIncomeRatio": 21.09,
+                "calendarYear": 2017
+            },
+            {
+                "operatingIncomeRatio": 26.69,
+                "netIncomeRatio": 22.41,
+                "calendarYear": 2018
+            },
+            {
+                "operatingIncomeRatio": 24.57,
+                "netIncomeRatio": 21.24,
+                "calendarYear": 2019
+            },
+            {
+                "operatingIncomeRatio": 24.15,
+                "netIncomeRatio": 20.91,
+                "calendarYear": 2020
+            },
+            {
+                "operatingIncomeRatio": 29.78,
+                "netIncomeRatio": 25.88,
+                "calendarYear": 2021
+            },
+            {
+                "operatingIncomeRatio": 30.29,
+                "netIncomeRatio": 25.31,
+                "calendarYear": 2022
+            }
+        ],
+        "researchAndDevelopmentExpenses": [
+            {
+                "researchAndDevelopmentExpenses": 4475000000,
+                "calendarYear": 2013
+            },
+            {
+                "researchAndDevelopmentExpenses": 6041000000,
+                "calendarYear": 2014
+            },
+            {
+                "researchAndDevelopmentExpenses": 8067000000,
+                "calendarYear": 2015
+            },
+            {
+                "researchAndDevelopmentExpenses": 10045000000,
+                "calendarYear": 2016
+            },
+            {
+                "researchAndDevelopmentExpenses": 11581000000,
+                "calendarYear": 2017
+            },
+            {
+                "researchAndDevelopmentExpenses": 14236000000,
+                "calendarYear": 2018
+            },
+            {
+                "researchAndDevelopmentExpenses": 16217000000,
+                "calendarYear": 2019
+            },
+            {
+                "researchAndDevelopmentExpenses": 18752000000,
+                "calendarYear": 2020
+            },
+            {
+                "researchAndDevelopmentExpenses": 21914000000,
+                "calendarYear": 2021
+            },
+            {
+                "researchAndDevelopmentExpenses": 26251000000,
+                "calendarYear": 2022
+            }
+        ],
+        "ratios": [
+            {
+                "returnOnEquity": 29.98,
+                "returnOnCapitalEmployed": 30,
+                "calendarYear": 2013
+            },
+            {
+                "returnOnEquity": 35.42,
+                "returnOnCapitalEmployed": 31.18,
+                "calendarYear": 2014
+            },
+            {
+                "returnOnEquity": 44.74,
+                "returnOnCapitalEmployed": 33.94,
+                "calendarYear": 2015
+            },
+            {
+                "returnOnEquity": 35.62,
+                "returnOnCapitalEmployed": 24.73,
+                "calendarYear": 2016
+            },
+            {
+                "returnOnEquity": 36.07,
+                "returnOnCapitalEmployed": 22.35,
+                "calendarYear": 2017
+            },
+            {
+                "returnOnEquity": 55.56,
+                "returnOnCapitalEmployed": 28.49,
+                "calendarYear": 2018
+            },
+            {
+                "returnOnEquity": 61.06,
+                "returnOnCapitalEmployed": 27.46,
+                "calendarYear": 2019
+            },
+            {
+                "returnOnEquity": 87.87,
+                "returnOnCapitalEmployed": 30.34,
+                "calendarYear": 2020
+            },
+            {
+                "returnOnEquity": 150.07,
+                "returnOnCapitalEmployed": 48.31,
+                "calendarYear": 2021
+            },
+            {
+                "returnOnEquity": 196.96,
+                "returnOnCapitalEmployed": 60.09,
+                "calendarYear": 2022
+            }
+        ],
+        "payoutRatios": [
+            {
+                "payoutRatio": 28.52,
+                "calendarYear": 2013
+            },
+            {
+                "payoutRatio": 28.16,
+                "calendarYear": 2014
+            },
+            {
+                "payoutRatio": 21.65,
+                "calendarYear": 2015
+            },
+            {
+                "payoutRatio": 26.59,
+                "calendarYear": 2016
+            },
+            {
+                "payoutRatio": 26.41,
+                "calendarYear": 2017
+            },
+            {
+                "payoutRatio": 23.03,
+                "calendarYear": 2018
+            },
+            {
+                "payoutRatio": 25.55,
+                "calendarYear": 2019
+            },
+            {
+                "payoutRatio": 24.53,
+                "calendarYear": 2020
+            },
+            {
+                "payoutRatio": 15.28,
+                "calendarYear": 2021
+            },
+            {
+                "payoutRatio": 14.87,
+                "calendarYear": 2022
+            }
+        ],
+        "range": "124.17-179.61",
+        "changes": -0.485,
+        "currency": "USD",
+        "cik": "0000320193",
+        "cusip": "037833100",
+        "exchange": "NASDAQ Global Select",
+        "exchangeShortName": "NASDAQ",
+        "phone": "408 996 1010",
+        "address": "One Apple Park Way",
+        "city": "Cupertino",
+        "state": "CA",
+        "zip": "95014",
+        "dcfDiff": 4.15176,
+        "dcf": 150.082,
+        "defaultImage": false,
+        "isEtf": false,
+        "isActivelyTrading": true,
+        "isAdr": false,
+        "isFund": false
+    }
+}
